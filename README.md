@@ -8,8 +8,8 @@ August 9, 2018
 
 This repository contains:
 
-- [All code used for examples](R)
-- [A pdf file of the presentation](presentation/slc-rug-plumber-presentation.pdf)
+- [All code used for mtcars data](R)
 
----
+
+
 ![](images/presentation-screenshot.png)
